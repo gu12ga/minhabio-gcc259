@@ -1,3 +1,6 @@
+![Avatar](./avatar.png)
+
+
 # Gustavo Gabriel Martins
 
 **Data de nascimento:** 09/10/2002  
